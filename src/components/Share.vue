@@ -35,7 +35,7 @@
             <button
               class="bg-[#fff] rounded-[5px] font-[600] px-[40px] hover:opacity-80 text-black text-[18px]"
             >
-              Bắt đầu với 123Train ngay hôm nay thật đẹp !
+              Bắt đầu với 123Train ngay hôm nay thật đẹp !!
             </button>
             <img
               class="ml-[40px] cursor-pointer"
