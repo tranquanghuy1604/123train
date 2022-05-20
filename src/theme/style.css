@@ -1,27 +1,38 @@
-.header{ 
-    background: url(https://123train.vn/assets/landing_banner_bg1.00ace886.png),url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB4AAAALSAQMAAAAGEl7eAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAuIwAALiMBeKU/dgAAAANQTFRF9Xsg49AMFAAAAL9JREFUeJztwTEBAAAAwqD1T20LL6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgaafQAAE16Bs6AAAAAElFTkSuQmCC);
-    background-size: cover;
-    background-repeat: no-repeat;
+.header {
+  background: url(https://123train.vn/assets/landing_banner_bg1.00ace886.png),
+    url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB4AAAALSAQMAAAAGEl7eAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAuIwAALiMBeKU/dgAAAANQTFRF9Xsg49AMFAAAAL9JREFUeJztwTEBAAAAwqD1T20LL6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgaafQAAE16Bs6AAAAAElFTkSuQmCC);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 .home-item-container.banner {
-    background: url(https://123train.vn/assets/landing_banner_bg1.00ace886.png),url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB4AAAALSAQMAAAAGEl7eAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAuIwAALiMBeKU/dgAAAANQTFRF9Xsg49AMFAAAAL9JREFUeJztwTEBAAAAwqD1T20LL6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgaafQAAE16Bs6AAAAAElFTkSuQmCC);
-    background-size: cover;
-    background-repeat: no-repeat;
+  background: url(https://123train.vn/assets/landing_banner_bg1.00ace886.png),
+    url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB4AAAALSAQMAAAAGEl7eAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAuIwAALiMBeKU/dgAAAANQTFRF9Xsg49AMFAAAAL9JREFUeJztwTEBAAAAwqD1T20LL6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgaafQAAE16Bs6AAAAAElFTkSuQmCC);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
-.content{
-    background: url(https://123train.vn/assets/benefit_before_bg.f5fa32da.png),#cdcdcd;
-    background-size: contain;
-    background-repeat: no-repeat;
+.content {
+  background: url(https://123train.vn/assets/benefit_before_bg.f5fa32da.png),
+    #cdcdcd;
+  background-size: contain;
+  background-repeat: no-repeat;
 }
-.content.second{
-    background: url(https://123train.vn/assets/benefit_after_bg.814600ef.png),linear-gradient(to left,gainsboro,#d0cfcf 400px);
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 100%;
-    width: 100%;
+.content.second {
+  background: url(https://123train.vn/assets/benefit_after_bg.814600ef.png),
+    linear-gradient(to left, gainsboro, #d0cfcf 400px);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100%;
+  width: 100%;
 }
-.home-step{
-    background: url(https://123train.vn/assets/landing_steps_bg.f0d0bce0.png);
-    background-size: contain;
-    background-repeat: no-repeat;
+.home-step {
+  background: url(https://123train.vn/assets/landing_steps_bg.f0d0bce0.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.share {
+  background: url(https://www.123train.vn/assets/landing_banner_bg1.00ace886.png),
+    url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB4AAAALSAQMAAAAGEl7eAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAuIwAALiMBeKU/dgAAAANQTFRF9Xsg49AMFAAAAL9JREFUeJztwTEBAAAAwqD1T20LL6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgaafQAAE16Bs6AAAAAElFTkSuQmCC);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 555px;
 }

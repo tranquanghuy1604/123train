@@ -243,6 +243,7 @@ const count = ref(0);
     <ok />
     <kk />
     <bbb />
+    <rrr />
   </div>
   <div class="footer"></div>
 </template>
@@ -251,6 +252,7 @@ const count = ref(0);
 import ok from "./step.vue";
 import kk from "./product.vue";
 import bbb from "./Share.vue";
+import rrr from "./RelateTo.vue";
 export default {
   name: "string",
   components: {
@@ -261,6 +263,9 @@ export default {
   },
   components: {
     bbb,
+  },
+  components: {
+    rrr,
   },
 };
 Step;
